@@ -20,4 +20,4 @@ localhost:5173
 
 ### Here is some representation of my `React Tables` project.
 
-![Project `React Tables` Screenshot](src/assets/Screenshot.png)
+![Project `React Tables` Screenshot](Practice/src/assets/Screenshot.png)
